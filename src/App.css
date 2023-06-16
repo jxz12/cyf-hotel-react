@@ -1,0 +1,41 @@
+.App {
+  text-align: left;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.app-content {
+  padding-top: 20px;
+  font-size: large;
+}
+
+.search {
+  padding: 5px 0 20px 0;
+}
+
+tr {
+  color: #5b5757;
+}
+
+.results {
+  padding-top: 15px;
+}
+
+.card {
+  width: 18rem;
+}
+
+li {
+  list-style: none;
+}
+td {
+  font-size: 0.8em;
+}
+
+.gray {
+  background-color: gray;
+}
+
+.restaurant-orders {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
